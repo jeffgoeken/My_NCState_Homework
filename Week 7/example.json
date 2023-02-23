@@ -45,6 +45,15 @@
                 "Controle weather",
                 "Manipulate the Ocean"
             ]
+        },
+        {
+            "name": "fire Guy",
+            "age": "36",
+            "Secret Identity": "Brock Firestorm",
+            "Powers": [
+                "Flame blast",
+                "Heat resistant"
+            ]
         }
     ]
 }
